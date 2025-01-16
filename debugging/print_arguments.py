@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 import sys
 # Vérifie si des arguments ont été passés
 if len(sys.argv) > 1:
